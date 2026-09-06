@@ -1,0 +1,6 @@
+{
+  "name": "GRAVITAS Social Media Generator",
+  "description": "Generate stunning cosmic-futurism social media posts, visuals, captions, and branded assets for the GRAVITAS college physics club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
